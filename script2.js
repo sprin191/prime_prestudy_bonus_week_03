@@ -7,4 +7,4 @@ return (b%3);
 function C (c) {
 return (c + 9);
 }
-A(B(C( 2 ) ) ) ;
+console.log(A(B(C( 2 ) ) ) ) ;
